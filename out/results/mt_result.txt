@@ -1,0 +1,8 @@
+Block Method ----------------
+max_value=100	block_size=16
+duration=20ms
+-----------------------------
+Default Method --------------
+max_value=100
+duration=22ms
+-----------------------------
